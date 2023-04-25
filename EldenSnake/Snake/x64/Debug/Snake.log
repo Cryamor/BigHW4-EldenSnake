@@ -1,0 +1,10 @@
+﻿  Button.cpp
+  Food.cpp
+C:\Users\ZMC\Desktop\homeWork\sem2\BigHW4\EldenSnake\Snake\Food.cpp(68,19): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+  Game.cpp
+  Log.cpp
+  Main.cpp
+  Snake.cpp
+  SP.cpp
+  正在生成代码...
+  Snake.vcxproj -> C:\Users\ZMC\Desktop\homeWork\sem2\BigHW4\EldenSnake\x64\Debug\Snake.exe

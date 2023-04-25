@@ -1,0 +1,13 @@
+﻿  point.cpp
+  startinterface.cpp
+  正在生成代码...
+controller.obj : error LNK2019: 无法解析的外部符号 "void __cdecl SetWindowSize(int,int)" (?SetWindowSize@@YAXHH@Z)，函数 "public: void __thiscall Controller::Start(void)" (?Start@Controller@@QAEXXZ) 中引用了该符号
+controller.obj : error LNK2019: 无法解析的外部符号 "void __cdecl SetCursorPosition(int,int)" (?SetCursorPosition@@YAXHH@Z)，函数 "public: void __thiscall Controller::DrawGame(void)" (?DrawGame@Controller@@QAEXXZ) 中引用了该符号
+food.obj : error LNK2001: 无法解析的外部符号 "void __cdecl SetCursorPosition(int,int)" (?SetCursorPosition@@YAXHH@Z)
+point.obj : error LNK2001: 无法解析的外部符号 "void __cdecl SetCursorPosition(int,int)" (?SetCursorPosition@@YAXHH@Z)
+snake.obj : error LNK2001: 无法解析的外部符号 "void __cdecl SetCursorPosition(int,int)" (?SetCursorPosition@@YAXHH@Z)
+controller.obj : error LNK2019: 无法解析的外部符号 "void __cdecl SetColor(int)" (?SetColor@@YAXH@Z)，函数 "public: void __thiscall Controller::DrawGame(void)" (?DrawGame@Controller@@QAEXXZ) 中引用了该符号
+food.obj : error LNK2001: 无法解析的外部符号 "void __cdecl SetColor(int)" (?SetColor@@YAXH@Z)
+snake.obj : error LNK2001: 无法解析的外部符号 "void __cdecl SetColor(int)" (?SetColor@@YAXH@Z)
+controller.obj : error LNK2019: 无法解析的外部符号 "void __cdecl SetBackColor(void)" (?SetBackColor@@YAXXZ)，函数 "public: int __thiscall Controller::GameOver(void)" (?GameOver@Controller@@QAEHXZ) 中引用了该符号
+C:\Users\ZMC\Desktop\homeWork\sem2\BigHW4\github\GreedySnake-master\Solution1\Debug\Project1.exe : fatal error LNK1120: 4 个无法解析的外部命令

@@ -1,0 +1,9 @@
+﻿  Bomb.cpp
+  Food.cpp
+  Game.cpp
+  Main.cpp
+  SP.cpp
+  Snake.cpp
+C:\Users\ZMC\Desktop\homeWork\sem2\BigHW4\EldenSnake\Snake\Snake.cpp(271,20): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码...
+  Snake.vcxproj -> C:\Users\ZMC\Desktop\homeWork\sem2\BigHW4\EldenSnake\Debug\Snake.exe
